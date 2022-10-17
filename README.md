@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello there, I’m Sinan! 🤚
 
-<!--
-**snnengn/snnengn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end Developer | Biologist
 
-Here are some ideas to get you started:
+I'm Sinan from Turkey, currently living in Bursa. I graduated from Uludag University, Department of Biology 🔬.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+But I decided to change my field. So I’m trying to be a **Full Stack Developer** and **Mobile Application Developer**. Currently I am studying **Computer Programming** in Anadolu University💻.
+
+# Technologies 💻
+
+* **Front-end Developer:** HTML, CSS, GIT, Bootstrap, Javascript
+* **Mobile Application Developer:** React Native
+* **Draftsperson :** SolidWorks, Topsolid, AutoCad
+
+# About Me👨‍💻
+
+* ✉️ How to reach me: [sinanengin@yandex.com]()
+* 🤝 And making connections on [LinkedIn](https://www.linkedin.com/in/sinan-engin/)
+* 🕵️‍♂️You can also check my [Patika.dev](https://app.patika.dev/snnengn)
+* 🎯 You can look up my [Portfolio](https://github.com/snnengn)
