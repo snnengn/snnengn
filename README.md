@@ -8,7 +8,7 @@ But I decided to change my field. So I’m trying to be a **Full Stack Develope
 
 # Technologies 💻
 
-* **Front-end Developer:** HTML, CSS, GIT, Bootstrap, Javascript
+* **Front-end Developer:** HTML, CSS, GIT, Bootstrap, Javascript, React
 * **Mobile Application Developer:** React Native
 * **Draftsperson :** SolidWorks, Topsolid, AutoCad
 
