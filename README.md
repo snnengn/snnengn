@@ -4,7 +4,8 @@ Front-end Developer | Biologist
 
 I'm Sinan from Turkey, currently living in Bursa. I graduated from Uludag University, Department of Biology 🔬.
 
-But I decided to change my field. So I’m trying to be a **Full Stack Developer** and **Mobile Application Developer**. Currently I am studying **Computer Programming** in Anadolu University💻.
+But I decided to change my field. So I’m trying to be a **Full Stack Developer**. Currently pursuing a Full-Stack Development course at Unityverse Academy and enhancing my skills by learning various programming languages and technologies. 
+Through this comprehensive training at Unityverse Academy, I am progressing towards becoming a well-rounded full-stack developer, equipped with both front-end and back-end development skills💻.
 
 # Technologies 💻
 
