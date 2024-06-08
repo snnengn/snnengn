@@ -9,8 +9,8 @@ Through this comprehensive training at Unityverse Academy, I am progressing towa
 
 # Technologies 💻
 
-* **Front-end Developer:** HTML, CSS, GIT, Bootstrap, Javascript, React
-* **Mobile Application Developer:** React Native
+* **Front-End Developer:** HTML, CSS, GIT, Bootstrap, Javascript, React
+* **Back-End Developer:** C#, .NET, ASP.NET, MySQL
 * **Draftsperson :** SolidWorks, Topsolid, AutoCad
 
 # About Me👨‍💻
